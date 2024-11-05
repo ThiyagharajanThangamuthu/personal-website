@@ -1,2 +1,3 @@
 # personal-website
-Personal Website demo for Docker Container
+
+The repository that powers my website www.paschalogu.com
